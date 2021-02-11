@@ -50,7 +50,7 @@ body{
 }
 img{
 	display: block;
-	transition: all .5s ease;
+	transition: all 1s ease;
 }
 img:not(.lower-line img):hover{
 	z-index: 99; transform: scale(1.2);  cursor: pointer;
