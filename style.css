@@ -73,5 +73,6 @@ img:not(.lower-line img):hover{
 	margin-top:6rem; 
 	padding: 5px 15px; border-radius: 10px;
 	background: #dbdbdbcc;
+	font-size: 1.5rem;
 }
 
